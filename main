@@ -1,0 +1,6 @@
+h1 { color: #0FC2C0; }
+h1 {font-family: 'Alkatra', cursive; }
+h1 {font-weight: bold; }
+p { color: #005C53; }
+p {font-family: "Roboto"; }
+p {font-weight: bold; }
