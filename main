@@ -1,6 +1,14 @@
-h1 { color: #0FC2C0; }
-h1 {font-family: 'Alkatra', cursive; }
-h1 {font-weight: bold; }
-p { color: #005C53; }
+p { color: #008000; }
 p {font-family: "Roboto"; }
-p {font-weight: bold; }
+p {font-weight: lighter ;}
+h1 {font-family: 'Delicious Handrawn', cursive; }
+h1 {font-weight: 1200 ;}
+h1 { color: ##355E3B; }
+
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Helvetica;
+}
